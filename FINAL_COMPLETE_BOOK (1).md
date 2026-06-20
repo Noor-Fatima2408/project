@@ -168,6 +168,27 @@ Before you begin, establish your benchmarks:
 # PART 0: THE PROOF
 
 ## Chapter 0.1: Why This Model Works - The Data
+### What You’ll Learn
+- Why Etsy digital products are a high-margin business opportunity.
+- How AI-assisted workflows shorten the product creation timeline.
+- Which cost categories impact solo creator profitability.
+
+### Learning Outcomes
+- Identify the core advantages of Etsy digital products.
+- Compare digital product economics to service-based income.
+- Explain how AI changes time-to-first-sale expectations.
+
+### Exercises
+1. Calculate your expected monthly fixed costs for tools and fees.
+2. List three reasons this model may outperform a service business.
+3. Sketch a six-month revenue curve for your first product launch.
+4. Write one paragraph summarizing why this model is realistic, not hype.
+
+### Quiz
+1. What is one key advantage of selling digital products on Etsy?
+2. How does AI reduce the time required to launch a product?
+3. Why are fixed costs relatively low for this business?
+4. What is the first thing that compounds as you add products?
 
 ### The Revenue Reality
 
@@ -814,6 +835,27 @@ Operating costs remain fixed at $50-150/month regardless of product count.
 ---
 
 ## Chapter 0.2: The Business Model & Platform Selection
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### Digital Products: Business Model Fundamentals
 
@@ -899,6 +941,27 @@ This portfolio approach is more resilient than single-product dependency and bet
 ---
 
 ## Chapter 0.3: Realistic Success Dependencies
+### What You’ll Learn
+- The highest-impact factors that determine success.
+- Why niche selection and SEO are critical.
+- How consistency and audience building affect results.
+
+### Learning Outcomes
+- Rank your own business strengths and risks.
+- Describe how each success dependency influences the store.
+- Create a small action plan to address your weakest factor.
+
+### Exercises
+1. Write down your current niche, SEO, quality, consistency, and audience score out of 5.
+2. Choose one failure mode and document how you will avoid it.
+3. Create a 12-week consistency checklist.
+4. Identify one research habit you will add to your workflow.
+
+### Quiz
+1. Which factor is typically the most important for Etsy success?
+2. Why is product quality still required in a high-SEO business?
+3. What does overreliance on AI without strategy cause?
+4. How fast should you ideally publish in your first 12 weeks?
 
 Before proceeding, understand what actually determines success in this model:
 
@@ -991,6 +1054,27 @@ Each of these failure modes is preventable. This guide is designed to help you a
 ---
 
 ## Chapter 0.4: Your 90-Day Operational Timeline
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### What "90 Days" Actually Means
 
@@ -1262,6 +1346,27 @@ Better: 3 products, each generating $200/month ($600 total) than 8 products gene
 ---
 
 ## Chapter 0.4: Addresses Real Doubts
+### What You’ll Learn
+- How to answer common objections and doubts.
+- What realistic expectations are for beginners.
+- How to separate evidence-based guidance from hype.
+
+### Learning Outcomes
+- Identify your top doubts and the facts that address them.
+- Build confidence with a realistic mindset.
+- Prepare answers to common questions from peers or customers.
+
+### Exercises
+1. Write down your three biggest doubts and a response for each.
+2. List evidence from the book that supports realistic outcomes.
+3. Create a short FAQ for yourself as a new creator.
+4. Note one fear you can replace with a data-based plan.
+
+### Quiz
+1. Why is it important to treat this as a business, not a hobby?
+2. What should you do if your first product has no sales?
+3. Why is email list building valuable early on?
+4. What is one thing this guide explicitly promises not to do?
 
 ### Q&A: The Hard Questions
 
@@ -1423,6 +1528,27 @@ If you reach $1,000/month (approximately 15-20% of focused implementers do):
 ---
 
 ## Chapter 0.5: Why Digital Product Businesses Fail (And How to Prevent It)
+### What You’ll Learn
+- The most common failure modes in digital product businesses.
+- How poor execution differs from poor idea selection.
+- Which preventive actions matter most early on.
+
+### Learning Outcomes
+- Name three common reasons digital product ventures fail.
+- Create a risk prevention checklist for your store.
+- Understand how to adapt if early metrics are weak.
+
+### Exercises
+1. Review the failure modes and mark which ones apply to your plan.
+2. Write a short prevention strategy for each applicable failure mode.
+3. Choose one failure mode to monitor weekly.
+4. Develop a mini checklist for consistent execution.
+
+### Quiz
+1. What is the most common failure mode?
+2. Why does inconsistency often lead to failure?
+3. How can customer feedback prevent failure?
+4. What is the role of strategic judgment with AI?
 
 Before diving into the system, understand what actually causes failure. 70-80% of creators who start this business don't reach $1,000/month. Understanding why helps you avoid these patterns.
 
@@ -1727,6 +1853,27 @@ If more than 2 checkboxes are unchecked, pivot niche or adjust approach immediat
 ---
 
 ## Chapter 0.6: Financial Modeling & Profitability Analysis
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 Before scaling, you need to understand the financial fundamentals of your business model. This chapter provides frameworks for profitability tracking, breakeven analysis, and scaling decisions.
 
@@ -1979,6 +2126,27 @@ Total: 20 products = $6,280/month
 # PART 1: YOUR OPERATING ENVIRONMENT
 
 ## Chapter 1: The Digital Product Economy
+### What You’ll Learn
+- How the digital product market is structured.
+- Why AI changes the economics for creators.
+- The realistic difference between passive and semi-passive income.
+
+### Learning Outcomes
+- Explain the digital product opportunity in your own words.
+- Identify the main market forces affecting your niche.
+- Determine whether your product idea is more passive or semi-passive.
+
+### Exercises
+1. Write a brief market summary for your niche.
+2. Compare two digital product categories by ease of scaling.
+3. Define your expected income type (passive vs. semi-passive).
+4. List one action that turns a product from semi-passive to passive.
+
+### Quiz
+1. What is a defining feature of digital products?
+2. Why is Etsy a good platform for solo creators?
+3. What does “semi-passive” mean?
+4. Why is startup capital low for this model?
 
 ### Why AI Changes Everything
 
@@ -2127,6 +2295,27 @@ But for first 12 months? Solo is optimal.
 ---
 
 ## Chapter 2: Understanding Claude AI
+### What You’ll Learn
+- How Claude AI supports digital product creation.
+- Which tasks AI can do best for your business.
+- Why human oversight is still essential when using AI.
+
+### Learning Outcomes
+- Describe Claude’s role in your workflow.
+- Choose three tasks to delegate to AI safely.
+- Recognize when to apply human judgment to AI output.
+
+### Exercises
+1. List three specific tasks Claude can handle today.
+2. Run one prompt and evaluate how much editing it needs.
+3. Write a short guideline for reviewing AI output.
+4. Define one task you will never fully automate.
+
+### Quiz
+1. What does Claude do better than a generic writing tool?
+2. Why should you review AI-generated copy?
+3. What is one strength of AI in product research?
+4. What is one limitation of AI for creators?
 
 ### What Makes Claude Different
 
@@ -2333,6 +2522,27 @@ Then:
 ---
 
 ## Chapter 3: Claude Skills & Connectors
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### Building vs. Using Existing Skills
 
@@ -3353,6 +3563,27 @@ tracking set up. One person, one day, multiple skills combined.
 ---
 
 ## Chapter 4: Risk Management & Account Sustainability
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 Before scaling your business, understand the risks. This chapter covers risks to your Etsy account, your business model, and your sustainability.
 
@@ -3601,6 +3832,27 @@ This is why email list building is critical. If Etsy becomes too restrictive:
 ---
 
 ## Chapter 5: Your Tech Stack
+### What You’ll Learn
+- Which tools are essential for launch, validation, and scale.
+- How to choose the right tools at each stage.
+- Why some tools can wait until after early revenue.
+
+### Learning Outcomes
+- Create a tool inventory for your business.
+- Decide which tool upgrades are worth the cost.
+- Assess which tools save more time than they cost.
+
+### Exercises
+1. Audit your current tools and assign them to stages.
+2. Calculate the monthly cost of your essential stack.
+3. Identify one tool you can remove or replace.
+4. Plan a future tool upgrade after reaching a revenue milestone.
+
+### Quiz
+1. What is one essential tool category at launch?
+2. Why should some tools be delayed until after revenue?
+3. What is the value of a productivity tool like Google Sheets?
+4. Which tool category supports audience building?
 
 ### The Essentials (You Need These)
 
@@ -3746,6 +3998,27 @@ Output: 10+ hours/week time saved, better data-driven decisions
 # PART 2: VALIDATION & IDEA GENERATION
 
 ## Chapter 5: Understanding Etsy Demand
+### What You’ll Learn
+- How Etsy demand works and what buyers are looking for.
+- How search intent affects product visibility and ranking.
+- The difference between evergreen and seasonal products.
+
+### Learning Outcomes
+- Classify your product ideas by buyer intent.
+- Select products with better demand stability.
+- Use search intent to improve your product positioning.
+
+### Exercises
+1. Choose three Etsy search terms and classify their intent.
+2. Find one evergreen and one seasonal product example.
+3. Create a demand score for your top product idea.
+4. Describe your product’s ideal buyer in one paragraph.
+
+### Quiz
+1. What is search intent?
+2. How does evergreen demand differ from trend demand?
+3. Why does Etsy search knowledge matter?
+4. What is one signal of high buyer intent?
 
 ### How the Etsy Algorithm Works (Complete)
 
@@ -3914,6 +4187,27 @@ Example product mix:
 ---
 
 ## Chapter 6: AI-Powered Idea Generation
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### Workflow 1: Reddit Pain-Point Mining
 
@@ -4206,6 +4500,27 @@ Strategy: Build December/January products in September (pre-season). Launch when
 ---
 
 ## Chapter 7: Validation Framework (CRITICAL)
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### The Validation Matrix: 9 Signals
 
@@ -4446,6 +4761,27 @@ Due to length, here's the structure of what continues in the full book:
 # PART 3: PRODUCT CREATION
 
 ## Chapter 8: Operations Systems & Batch Workflows
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 Before diving into design and creation, understand the systematic workflows that successful creators use. Batching is the difference between unsustainable chaos and scalable systems.
 
@@ -4788,6 +5124,27 @@ Action items from dashboard:
 ---
 
 ## Chapter 9: Design Fundamentals for Digital Products
+### What You’ll Learn
+- The core visual principles that create trustworthy products.
+- How color, typography, and layout affect buyer perception.
+- Why clarity matters more than decoration.
+
+### Learning Outcomes
+- Apply key design principles to your product assets.
+- Choose a coherent visual style for your brand.
+- Create a quality review checklist for design.
+
+### Exercises
+1. Sketch a color palette and typography pair for one product.
+2. Audit an existing design for readability.
+3. Create a simple layout for a product page or cover.
+4. Compare two designs and note what makes one stronger.
+
+### Quiz
+1. Why is typography important for digital products?
+2. What role does color psychology play?
+3. How does layout impact perceived quality?
+4. What is more important than visual complexity?
 
 ### Color Psychology
 
@@ -4868,6 +5225,27 @@ Font choice conveys personality.
 ---
 
 ## Chapter 9: Building 8 Product Types with Claude
+### What You’ll Learn
+- How different digital product types are built.
+- Which workflows suit each product format.
+- How to use AI to accelerate product creation.
+
+### Learning Outcomes
+- Select the best product type for your skills.
+- Understand the build steps for at least two product types.
+- Plan one product launch using an AI-assisted workflow.
+
+### Exercises
+1. Choose two product types and compare their creation needs.
+2. Draft a step-by-step build plan for one product type.
+3. Use AI to generate an outline for a product description.
+4. Identify one product format that fits your niche best.
+
+### Quiz
+1. What is one reason to choose a worksheet product?
+2. Why are prompt packs high-margin?
+3. What is a key difference between printables and ebooks?
+4. How can AI speed up product workflows?
 
 ### Product Type 1: Notion Templates
 
@@ -5254,6 +5632,27 @@ SALES POTENTIAL: $1,000-4,000/month (higher-ticket)
 ---
 
 ## Chapter 10: Creating Content at Scale
+### What You’ll Learn
+- What batch production systems do for scaling.
+- How to move from single-product work to portfolio production.
+- How to manage quality while increasing volume.
+
+### Learning Outcomes
+- Explain the batch production system for your business.
+- Plan a scaled content creation sprint.
+- Identify quality checks that should remain in every batch.
+
+### Exercises
+1. Plan a batch for five products this month.
+2. List quality control steps for each product.
+3. Estimate time savings from batching compared to one-by-one work.
+4. Choose one repeating step to streamline next time.
+
+### Quiz
+1. What is the main benefit of batch production?
+2. Why are duplicates faster after the first product?
+3. What should you do before launching a batch?
+4. How does batching affect creativity?
 
 ### The Batch Production System
 
@@ -5359,6 +5758,27 @@ Ready to launch all 10
 ---
 
 ## Chapter 11: Asset Management & Scaling
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### File Organization System
 
@@ -5471,6 +5891,27 @@ Result: 3x speed gain
 # PART 4: ETSY MASTERY
 
 ## Chapter 12: Store Setup & Branding
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### Store Naming Strategy
 
@@ -5570,6 +6011,27 @@ New products every Monday. Newsletter: [link] for early access."
 ---
 
 ## Chapter 13: Advanced Etsy SEO Framework
+### What You’ll Learn
+- How Etsy search ranking works in detail.
+- Why keyword clustering is more effective than single keywords.
+- How to build metadata that improves rankings.
+
+### Learning Outcomes
+- Create a keyword cluster for one product.
+- Optimize title, tags, and description using ranking principles.
+- Explain the role of quality signals in Etsy SEO.
+
+### Exercises
+1. Build a keyword cluster for a sample product.
+2. Write a title, tags, and description using those keywords.
+3. Identify one quality signal to improve for your listing.
+4. Create a tagging plan for three related products.
+
+### Quiz
+1. What percentage of Etsy ranking is relevance signal?
+2. Why is keyword clustering useful?
+3. What are two quality signals Etsy uses?
+4. What should you optimize besides title and tags?
 
 SEO determines 60-70% of your success. This chapter provides professional-grade frameworks most creators never learn.
 
@@ -6031,6 +6493,27 @@ Within each cluster, products rank 30-50% higher than they would solo.
 ---
 
 ## Chapter 14: Listings That Convert
+### What You’ll Learn
+- How to convert visitors into buyers through listing content.
+- What components of a listing influence buyer confidence.
+- How to test listing elements for better conversion.
+
+### Learning Outcomes
+- Improve your listing description and image hierarchy.
+- Write better product benefits and social proof.
+- Choose one listing element to test and iterate.
+
+### Exercises
+1. Audit one listing for conversion bottlenecks.
+2. Rewrite the product description as benefits-focused copy.
+3. Plan a thumbnail test for higher click-through.
+4. List five buyer objections and answer them in your listing.
+
+### Quiz
+1. What is the main purpose of a listing description?
+2. Why are benefit statements important?
+3. How can social proof improve conversion?
+4. What is one way to test a listing change?
 
 ### Photo Strategy for Digital Products
 
@@ -6142,6 +6625,27 @@ Buy now → Get instant access → Start organizing today."
 ---
 
 ## Chapter 15: Store Analytics & Optimization
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### Key Metrics to Track
 
@@ -6263,6 +6767,27 @@ MONTH 7-12 ($1,500-4,000+/month):
 # PART 5: MARKETING & TRAFFIC
 
 ## Chapter 16: The Traffic Stack Overview
+### What You’ll Learn
+- How multiple traffic channels work together.
+- How to prioritize your marketing efforts.
+- What makes a traffic stack sustainable.
+
+### Learning Outcomes
+- Map your traffic channels by expected ROI.
+- Choose the first channel to focus on for your niche.
+- Explain why diversification is important for traffic.
+
+### Exercises
+1. Create a traffic channel map for your launch.
+2. Rank channels by effort, cost, and expected return.
+3. Plan one campaign for your top channel.
+4. List how each channel feeds your email list or sales.
+
+### Quiz
+1. What is a traffic stack?
+2. Why should you focus on one channel first?
+3. How does email fit into a traffic stack?
+4. What does channel diversification protect against?
 
 You need 5 traffic channels to reduce dependency on any single one.
 
@@ -6302,6 +6827,27 @@ Total: 2,000 qualified visitors = 20-40 sales/month
 ---
 
 ## Chapter 17: Pinterest Marketing (Your Biggest Channel)
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 Pinterest drives 80% of traffic to digital products on Etsy. This chapter alone could be a book.
 
@@ -6452,6 +6998,27 @@ Result: 60% more traffic from same effort
 ---
 
 ## Chapter 18: TikTok & Short-Form Content
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### TikTok for Digital Products
 
@@ -6580,6 +7147,27 @@ Total time: 2 hours/week
 ---
 
 ## Chapter 19: Email Marketing
+### What You’ll Learn
+- Why email is a compounding channel for Etsy sellers.
+- How to structure a simple email funnel.
+- Which metrics show email performance.
+
+### Learning Outcomes
+- Build a basic email campaign sequence.
+- Identify your first email list growth tactics.
+- Track open and click rates for improvement.
+
+### Exercises
+1. Draft a welcome email sequence for new subscribers.
+2. Create one lead magnet idea for your audience.
+3. Choose three email metrics to monitor.
+4. Write a short email that promotes a product valuefully.
+
+### Quiz
+1. What is the goal of a welcome email?
+2. Why is email list growth valuable?
+3. What are two key email performance metrics?
+4. How often should you send value-focused emails?
 
 ### Building Your Email List
 
@@ -6782,6 +7370,27 @@ To reduce unsubscribe:
 ---
 
 ## Chapter 20: Paid Advertising
+### What You’ll Learn
+- When paid advertising is worth testing.
+- How to measure ad performance with ROAS.
+- How to allocate a small budget for early tests.
+
+### Learning Outcomes
+- Run a small ad test with clear metrics.
+- Calculate return on ad spend for one campaign.
+- Identify whether ads should remain on or be paused.
+
+### Exercises
+1. Choose one product and budget for a test campaign.
+2. Write the target keywords or audiences for the ad.
+3. Set a simple ROAS target for the test.
+4. Plan one optimization if the campaign underperforms.
+
+### Quiz
+1. What does ROAS mean?
+2. Why should you wait until you have revenue before running ads?
+3. What is a good ROAS benchmark?
+4. Which channel has a lower minimum budget, Etsy or TikTok ads?
 
 ### When to Start Paid Ads
 
@@ -6867,6 +7476,27 @@ Tier 3 (Broad, high volume):
 # PART 6: SCALING & AUTOMATION
 
 ## Chapter 21: Batch Production Systems
+### What You’ll Learn
+- How batch production supports scaling and consistency.
+- How to replicate a product process across multiple offerings.
+- What makes a production system repeatable and reliable.
+
+### Learning Outcomes
+- Explain your batch production workflow.
+- Create a plan for manufacturing multiple products each month.
+- Identify one process improvement for your next batch.
+
+### Exercises
+1. Build a batch plan for four products.
+2. Identify steps that can be reused across workflows.
+3. Measure how long one product currently takes to build.
+4. Choose one task to standardize with templates.
+
+### Quiz
+1. What is batch production?
+2. Why is it more efficient than one-off creation?
+3. What should you standardize first?
+4. How does batching reduce decision fatigue?
 
 (Covered in detail in Part 3, Chapter 10)
 
@@ -6899,6 +7529,27 @@ Template 3-10: (1.5 hours each to build)
 ---
 
 ## Chapter 22: Automation with n8n
+### What You’ll Learn
+- How automation can reduce manual work in your business.
+- What n8n does and how it compares to other tools.
+- How to automate routine tasks without losing control.
+
+### Learning Outcomes
+- Identify an automation you can set up now.
+- Create a simple workflow outline for n8n.
+- Understand the maintenance needs of automation.
+
+### Exercises
+1. Draft an automation for one recurring process.
+2. List the trigger, actions, and outcomes for the workflow.
+3. Plan how you will test the automation before launch.
+4. Document one fallback if the automation fails.
+
+### Quiz
+1. What is one benefit of automation?
+2. How does n8n help Etsy sellers?
+3. Why should you test automation thoroughly?
+4. What is one task that should never be fully automated?
 
 **What is n8n?**
 
@@ -6926,6 +7577,27 @@ RESULT: All automation runs instantly on sale
 ---
 
 ## Chapter 23: Building Your AI Team
+### What You’ll Learn
+- How to structure a team that combines AI and human roles.
+- Which tasks are best handled by AI assistants.
+- How to scale without losing product quality.
+
+### Learning Outcomes
+- Define roles for your AI-assisted team.
+- Select tasks to keep in-house versus automate.
+- Build a plan for scaling with minimal hiring.
+
+### Exercises
+1. Design an AI-supported team chart.
+2. List tasks for an assistant, an AI tool, and yourself.
+3. Choose one role to add once revenue reaches your goal.
+4. Write a short hiring or automation plan.
+
+### Quiz
+1. What is one role an AI assistant can play?
+2. Why is human review still important?
+3. How can you scale without hiring employees?
+4. What should you automate first in a team workflow?
 
 As revenue grows, you can automate work with AI instead of hiring people.
 
@@ -6969,6 +7641,27 @@ Result: ChatGPT now answers 80% of customer emails
 ---
 
 ## Chapter 24: Analytics & Optimization at Scale
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 As you have 20+ products, analytics become critical.
 
@@ -7022,6 +7715,27 @@ By month 9-12, you'll have products at different revenue levels.
 # PART 7: ADVANCED & LEGAL
 
 ## Chapter 25: Advanced Prompt Engineering
+### What You’ll Learn
+- How precise prompts improve AI output quality.
+- Why prompt engineering matters for product creation.
+- How to iterate prompts for better results.
+
+### Learning Outcomes
+- Write a clearer, more effective prompt.
+- Identify prompt patterns that work for product creation.
+- Use prompt iteration to improve one result.
+
+### Exercises
+1. Draft three prompts for the same task and compare results.
+2. Refine one prompt based on output review.
+3. Document a prompt template for future use.
+4. List common prompt mistakes to avoid.
+
+### Quiz
+1. What is prompt engineering?
+2. Why should you iterate a prompt?
+3. What is one sign of a weak prompt?
+4. How can a better prompt save time?
 
 ### Crafting Powerful Prompts for Claude
 
@@ -7178,6 +7892,27 @@ Output: 20 ready-to-use descriptions for pins
 ---
 
 ## Chapter 26: Legal, Ethics & Risk Management
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### Intellectual Property Considerations
 
@@ -7256,6 +7991,27 @@ We'll send replacement files or provide full refund."
 ---
 
 ## Chapter 27: Complete Case Studies
+### What You’ll Learn
+- How real case studies reveal repeatable business decisions.
+- What patterns successful creators share.
+- How to apply lessons from examples to your own business.
+
+### Learning Outcomes
+- Extract actionable tactics from case studies.
+- Identify one strategy to test in your business.
+- Use examples to refine your product roadmap.
+
+### Exercises
+1. Summarize one case study in three key lessons.
+2. Capture one idea you can apply immediately.
+3. Compare two case studies for common success behaviors.
+4. Write one paragraph on how your plan changes based on the examples.
+
+### Quiz
+1. What is the main benefit of studying case studies?
+2. Why are real examples useful for learning?
+3. How can you turn a case study insight into action?
+4. What should you avoid assuming from one success story?
 
 ### Case Study 1: Jessica (Project Manager → $5,200/month in 6 months)
 
@@ -7530,6 +8286,27 @@ Results:
 ---
 
 ## Chapter 28: Resources, Tools & Next Steps
+### What You’ll Learn
+- Understand the central ideas of this chapter.
+- Build confidence by applying the chapter’s frameworks.
+- Use exercises to convert knowledge into action.
+
+### Learning Outcomes
+- Summarize the chapter’s main insights.
+- Apply one idea from the chapter to your business.
+- Create a short action checklist.
+
+### Exercises
+1. Review the chapter and note your three biggest takeaways.
+2. Write one action item you can complete in 24 hours.
+3. Share the main insight with a peer or accountability partner.
+4. List one question the chapter answered for you.
+
+### Quiz
+1. What was the chapter’s main focus?
+2. How can you apply this chapter to your store?
+3. What is one thing you can test next?
+4. Which part of the chapter was most actionable?
 
 ### Software Stack (Final)
 
@@ -7978,4 +8755,3 @@ DECISION:
 **Total Workflows: 100+**
 
 This is the complete, comprehensive book you were expecting.
-
